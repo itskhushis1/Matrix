@@ -36,7 +36,6 @@ int main()
 
 	return 0;
 }
-
 void enterData(int firstMatrix[][10], int secondMatrix[][10], int rowFirst, int columnFirst, int rowSecond, int columnSecond)
 {
 	int i, j;
