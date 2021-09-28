@@ -6,6 +6,7 @@ void multiplyMatrices(int firstMatrix[][10], int secondMatrix[][10], int multRes
 void display(int mult[][10], int rowFirst, int columnSecond);
 
 int main()
+	
 {
 	int firstMatrix[10][10], secondMatrix[10][10], mult[10][10], rowFirst, columnFirst, rowSecond, columnSecond, i, j, k;
 
